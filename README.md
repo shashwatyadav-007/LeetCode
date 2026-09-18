@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/shashwatyadav-007/LeetCode/tree/master/0007-reverse-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shashwatyadav-007/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
 |  |
