@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/shashwatyadav-007/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/shashwatyadav-007/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shashwatyadav-007/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/shashwatyadav-007/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/shashwatyadav-007/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
