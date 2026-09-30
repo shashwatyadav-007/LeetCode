@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shashwatyadav-007/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/shashwatyadav-007/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/shashwatyadav-007/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shashwatyadav-007/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
@@ -17,9 +18,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/shashwatyadav-007/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/shashwatyadav-007/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shashwatyadav-007/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/shashwatyadav-007/LeetCode/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/shashwatyadav-007/LeetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
