@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/shashwatyadav-007/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shashwatyadav-007/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/shashwatyadav-007/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/shashwatyadav-007/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Recursion
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shashwatyadav-007/LeetCode/tree/master/0169-majority-element) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/shashwatyadav-007/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shashwatyadav-007/LeetCode/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/shashwatyadav-007/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
