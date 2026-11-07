@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shashwatyadav-007/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/shashwatyadav-007/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shashwatyadav-007/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/shashwatyadav-007/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shashwatyadav-007/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/shashwatyadav-007/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shashwatyadav-007/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/shashwatyadav-007/LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/shashwatyadav-007/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shashwatyadav-007/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/shashwatyadav-007/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shashwatyadav-007/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/shashwatyadav-007/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shashwatyadav-007/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -62,10 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/shashwatyadav-007/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/shashwatyadav-007/LeetCode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/shashwatyadav-007/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/shashwatyadav-007/LeetCode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -83,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/shashwatyadav-007/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/shashwatyadav-007/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
