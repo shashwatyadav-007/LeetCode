@@ -19,8 +19,6 @@ class MyQueue(object):
         """
         :rtype: int
         """
-        if not self.st1:
-            return -1
         element=self.st1.pop()
         return element
         
@@ -29,8 +27,6 @@ class MyQueue(object):
         """
         :rtype: int
         """
-        if not self.st1:
-            return -1
         return self.st1[-1]
         
 
