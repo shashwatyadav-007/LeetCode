@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/shashwatyadav-007/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shashwatyadav-007/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/shashwatyadav-007/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/shashwatyadav-007/LeetCode/tree/master/0402-remove-k-digits) |
 ## Merge Sort
 |  |
 | ------- |
@@ -116,8 +117,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shashwatyadav-007/LeetCode/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/shashwatyadav-007/LeetCode/tree/master/0402-remove-k-digits) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shashwatyadav-007/LeetCode/tree/master/0020-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/shashwatyadav-007/LeetCode/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/shashwatyadav-007/LeetCode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
