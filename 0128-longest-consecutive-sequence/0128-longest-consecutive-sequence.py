@@ -13,5 +13,7 @@ class Solution(object):
                 while current+1 in numset:
                     current+=1
                     count+=1
-                longest=max(longest,count)
+                if count>longest:
+                    longest=count
+                    
         return longest 
