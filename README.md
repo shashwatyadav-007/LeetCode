@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/shashwatyadav-007/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/shashwatyadav-007/LeetCode/tree/master/0007-reverse-integer) |
+| [0268-missing-number](https://github.com/shashwatyadav-007/LeetCode/tree/master/0268-missing-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shashwatyadav-007/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/shashwatyadav-007/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/shashwatyadav-007/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shashwatyadav-007/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/shashwatyadav-007/LeetCode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/shashwatyadav-007/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/shashwatyadav-007/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/shashwatyadav-007/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/shashwatyadav-007/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/shashwatyadav-007/LeetCode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/shashwatyadav-007/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shashwatyadav-007/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/shashwatyadav-007/LeetCode/tree/master/0682-baseball-game) |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/shashwatyadav-007/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/shashwatyadav-007/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shashwatyadav-007/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/shashwatyadav-007/LeetCode/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -178,4 +182,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shashwatyadav-007/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/shashwatyadav-007/LeetCode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/shashwatyadav-007/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
