@@ -6,7 +6,6 @@ class Solution(object):
         """
         maxi=0
         count=0
-
         for i in nums:
             if i==1:
                 count+=1
