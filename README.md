@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/shashwatyadav-007/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/shashwatyadav-007/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shashwatyadav-007/LeetCode/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/shashwatyadav-007/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/shashwatyadav-007/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shashwatyadav-007/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/shashwatyadav-007/LeetCode/tree/master/0682-baseball-game) |
