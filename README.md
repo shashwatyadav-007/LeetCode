@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/shashwatyadav-007/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/shashwatyadav-007/LeetCode/tree/master/0007-reverse-integer) |
+| [0189-rotate-array](https://github.com/shashwatyadav-007/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shashwatyadav-007/LeetCode/tree/master/0268-missing-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shashwatyadav-007/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/shashwatyadav-007/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/shashwatyadav-007/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shashwatyadav-007/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/shashwatyadav-007/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/shashwatyadav-007/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/shashwatyadav-007/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/shashwatyadav-007/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/shashwatyadav-007/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/shashwatyadav-007/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/shashwatyadav-007/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/shashwatyadav-007/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shashwatyadav-007/LeetCode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/shashwatyadav-007/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/shashwatyadav-007/LeetCode/tree/master/0496-next-greater-element-i) |
