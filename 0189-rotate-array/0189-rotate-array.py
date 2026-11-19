@@ -5,15 +5,6 @@ class Solution(object):
         :type k: int
         :rtype: None Do not return anything, modify nums in-place instead.
         """
-        temp = []
-        n = len(nums)
-        k = k % n
-
-        for i in range(n-k, n):
-            temp.append(nums[i])
-
-        for i in range(n-k-1, -1, -1):
-            nums[i+k] = nums[i]
-
-        for i in range(k):
-            nums[i] = temp[i]
+        n=len(nums)
+        k=k%n
+        nums[:]=nums[n-k:]+nums[:n-k]
