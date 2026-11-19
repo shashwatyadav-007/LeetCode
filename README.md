@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/shashwatyadav-007/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/shashwatyadav-007/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/shashwatyadav-007/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/shashwatyadav-007/LeetCode/tree/master/0283-move-zeroes) |
 | [0844-backspace-string-compare](https://github.com/shashwatyadav-007/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/shashwatyadav-007/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shashwatyadav-007/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shashwatyadav-007/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shashwatyadav-007/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shashwatyadav-007/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/shashwatyadav-007/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shashwatyadav-007/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/shashwatyadav-007/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shashwatyadav-007/LeetCode/tree/master/0503-next-greater-element-ii) |
