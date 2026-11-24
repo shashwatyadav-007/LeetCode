@@ -5,10 +5,10 @@ class Solution:
         st=[]
         for i in tokens:
             if i not in operator:
-                st.append(i)
+                st.append(int(i))
             else:
-                op2=int(st.pop())
-                op1=int(st.pop())
+                op2=st.pop()
+                op1=st.pop()
                 if i=='+':
                     st.append(op1+op2)
                 elif i=='-':
@@ -17,5 +17,5 @@ class Solution:
                     st.append(op1*op2)
                 else:
                     st.append(int(op1/op2))
-        return int(st[-1])
+        return st[-1]
 
