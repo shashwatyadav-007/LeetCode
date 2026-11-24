@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/shashwatyadav-007/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/shashwatyadav-007/LeetCode/tree/master/0007-reverse-integer) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shashwatyadav-007/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/shashwatyadav-007/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shashwatyadav-007/LeetCode/tree/master/0268-missing-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shashwatyadav-007/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/shashwatyadav-007/LeetCode/tree/master/0054-spiral-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shashwatyadav-007/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/shashwatyadav-007/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shashwatyadav-007/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/shashwatyadav-007/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shashwatyadav-007/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shashwatyadav-007/LeetCode/tree/master/0268-missing-number) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/shashwatyadav-007/LeetCode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shashwatyadav-007/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shashwatyadav-007/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/shashwatyadav-007/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shashwatyadav-007/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/shashwatyadav-007/LeetCode/tree/master/0234-palindrome-linked-list) |
