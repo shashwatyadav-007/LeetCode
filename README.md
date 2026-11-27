@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/shashwatyadav-007/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/shashwatyadav-007/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/shashwatyadav-007/LeetCode/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/shashwatyadav-007/LeetCode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/shashwatyadav-007/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/shashwatyadav-007/LeetCode/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/shashwatyadav-007/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shashwatyadav-007/LeetCode/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/shashwatyadav-007/LeetCode/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
